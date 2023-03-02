@@ -1,4 +1,4 @@
-#Usage
+# Usage
 
 This project is using Sportify's external API to create a custom playlist of user generated tracks and then save it on the user's personal account.
 
