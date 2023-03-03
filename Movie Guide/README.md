@@ -21,6 +21,6 @@ To use the app, follow these steps:
 
 
 ## API Usage
-This app uses the OMDb API to retrieve information about movies/TV shows. To use the API, you will need to obtain an API key from the OMDb website. Once you have an API key, you can replace the `YOUR_API_KEY_HERE` string in the `key.js` file with your actual API key.
+This app uses the OMDb API to retrieve information about movies/TV shows. To use the API, you will need to obtain an API key from the OMDb website. Once you have an API key, you can replace the `key` variable in the `key.js` file with your actual API key.
 
 ###### Credits to AsmrProg
