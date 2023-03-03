@@ -56,4 +56,4 @@ JSON encoded array of strings ordered by prediction probability (descending), fo
 This project was created as part of the Wizkids C# test and is a simple test project. However, it should be treated as a project that could run in production in a business environment.
 
 
-
+== If you wish to support Wizkids you can do so at https://www.wizkids.dk/. Their application is available on all platforms. ==
