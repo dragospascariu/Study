@@ -15,12 +15,12 @@ This app is built using the following technologies:
 To use the app, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Open the index.html file in your web browser.
+2. Run a live server from your preferred code editor or IDE.
 3. Use the search bar to look up a movie or TV show.
 4. The app will display information about the movie/TV show, including its rating, poster, genre, runtime, cast, and plot description.
 
 
 ## API Usage
-This app uses the OMDb API to retrieve information about movies/TV shows. To use the API, you will need to obtain an API key from the OMDb website. Once you have an API key, you can replace the `key` variable in the `key.js` file with your actual API key.
+This app uses the OMDb API to retrieve information about movies/TV shows. To use the API, you will need to obtain an API key from the OMDb website. Once you have an API key, you can replace the `key` string in the `key.js` file with your actual API key.
 
 ###### Credits to AsmrProg
