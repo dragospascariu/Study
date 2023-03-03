@@ -39,17 +39,20 @@ Custom Dictionary Description
 The custom dictionary is implemented as an SQLite 3 database (Dictionary.db) with a Wordstable containing the columns Id and Value. The database is not encrypted and does not require a password.
 
 ## Word Predictions Web Service Description
-#### URL: https://services.lingapps.dk/misc/getPredictions
+### URL:
+https://services.lingapps.dk/misc/getPredictions
 
-#### Authorization: `Header: Authorization: Bearer [TOKEN]` (token generated in Miscellaneous task #1)
+### Authorization: 
+`Header: Authorization: Bearer [TOKEN]` (token generated in Miscellaneous task #1)
 
-#### Parameters:
+### Parameters:
 - `locale`: String, the language in which the predictions should be computed. Valid values are `da-DK` and `en-GB`.
 - `text`: String, the text from which to compute the predictions.
 
-#### Response: JSON encoded array of strings ordered by prediction probability (descending), for example: `["cars", "cats", "cake"]` 
+### Response: 
+JSON encoded array of strings ordered by prediction probability (descending), for example: `["cars", "cats", "cake"]` 
 
-#### Note
+### Note
 This project was created as part of the Wizkids C# test and is a simple test project. However, it should be treated as a project that could run in production in a business environment.
 
 
