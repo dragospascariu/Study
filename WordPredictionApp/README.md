@@ -1,4 +1,4 @@
-#Word Prediction App
+# Word Prediction App
 
 This project is a simple web application that implements a word prediction functionality with results from a custom dictionary and a word prediction web service. The app allows users to enter text in a textarea and displays two lists of word prediction results based on the input text.
 
