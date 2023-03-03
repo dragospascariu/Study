@@ -18,6 +18,7 @@
 5. Open [http://localhost:3000](http://localhost:3000) to view the app in your browser.
 
 
+
 ### Features
 - User authentication through Spotify.
 - Search for songs, albums, and artists.
