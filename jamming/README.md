@@ -1,6 +1,6 @@
 # Jamming
 
- Spotify Playlist Creator is a web application that allows users to generate custom playlists using the Spotify API. Users can search for songs, albums, and artists and add them to their playlist. Once the playlist is created, users can save it to their Spotify profile.
+ Jamming is a web application that allows users to generate custom playlists using the Spotify API. Users can search for songs, albums, and artists and add them to their playlist. Once the playlist is created, users can save it to their Spotify profile.
 
 ### Technologies Used
 
