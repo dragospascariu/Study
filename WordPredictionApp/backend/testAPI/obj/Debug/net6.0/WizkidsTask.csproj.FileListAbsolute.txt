@@ -1,0 +1,7 @@
+C:\Users\Dragos\source\repos\testAPI\testAPI\obj\Debug\net6.0\WizkidsTask.csproj.AssemblyReference.cache
+C:\Users\Dragos\source\repos\testAPI\testAPI\obj\Debug\net6.0\WizkidsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dragos\source\repos\testAPI\testAPI\obj\Debug\net6.0\WizkidsTask.AssemblyInfoInputs.cache
+C:\Users\Dragos\source\repos\testAPI\testAPI\obj\Debug\net6.0\WizkidsTask.AssemblyInfo.cs
+C:\Users\Dragos\source\repos\testAPI\testAPI\obj\Debug\net6.0\WizkidsTask.csproj.CoreCompileInputs.cache
+C:\Users\Dragos\source\repos\testAPI\testAPI\obj\Debug\net6.0\WizkidsTask.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dragos\source\repos\testAPI\testAPI\obj\Debug\net6.0\WizkidsTask.MvcApplicationPartsAssemblyInfo.cache
