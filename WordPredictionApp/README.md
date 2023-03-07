@@ -58,4 +58,4 @@ This project was created as part of the Wizkids C# test and is a simple test pro
 
 
 
-## **If you wish to support Wizkids you can do so at https://www.wizkids.dk/. Their application is available on all platforms.**
+**If you wish to support Wizkids you can do so at https://www.wizkids.dk/. Their application is available on all platforms.**
