@@ -1,5 +1,5 @@
 # Hello World!
- Welcome to my Fullstack Portfolio, where my passion for programming comes to life! As a budding fullstack developer, I am thrilled to showcase my skills and demonstrate how I have taken my love for programming to the next level.
+ Welcome to my portfolio, where my passion for programming comes to life! As a budding fullstack developer, I am thrilled to showcase my skills and demonstrate how I have taken my love for programming to the next level.
 
  My portfolio is a collection of carefully crafted fullstack projects that highlight my ability to create web applications that are interactive, responsive, and intuitive. I believe that a great user experience is the key to any successful application, and my projects reflect that philosophy. From simple front-end applications to complex full-stack web applications that interact with external APIs, such as Spotify, OMDb, and Reddit, my portfolio represents the diversity of my technical expertise.
 
