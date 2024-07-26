@@ -1,0 +1,38 @@
+/* Existing styles */
+body {
+  background-color: lavenderblush; /* Light pink background for the whole page */
+  color: midnightblue; /* Dark blue color for the text */
+}
+h1,
+h2 {
+  color: rebeccapurple; /* Purple color for headers */
+}
+table {
+  border-color: slategray; /* Gray color for table borders */
+  width: 100%;
+}
+th,
+td {
+  padding: 8px;
+  text-align: left;
+  border-bottom: 1px solid slategray; /* Gray color for the table cell borders */
+}
+th {
+  background-color: lightsteelblue; /* Light blue background for table headers */
+  color: white; /* White text for headers */
+}
+
+/* Updated styles for code blocks and inline code */
+pre,
+code,
+.code-inline {
+  background-color: #f5f5f5; /* Lighter gray background for better contrast */
+  color: darkslategray; /* Dark gray color for the text in code blocks */
+  font-family: "Courier New", Courier, monospace; /* Monospace font for code */
+}
+
+/* Additional style for inline code snippets */
+.code-inline {
+  padding: 2px 4px;
+  border-radius: 4px;
+}

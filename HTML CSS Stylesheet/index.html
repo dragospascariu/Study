@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cheat Sheet: CSS Selectors and Specificity</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <main>
+        <h1>CSS Selectors and Specificity</h1>
+        <p>This document provides an overview of CSS selectors, a fundamental concept in web development that allows developers to target and style HTML elements in specific ways. Additionally, we'll cover specificity, which determines which styles are applied when there is a conflict.</p>
+        
+        <h2>CSS Selectors</h2>
+        <p>CSS selectors enable developers to target HTML elements based on their attributes, relationships, or states.</p>
+        
+        <!-- Table for CSS Selectors -->
+        <table border="1">
+            <tr>
+                <th>Selector Name</th>
+                <th>Syntax</th>
+                <th>Description</th>
+            </tr>
+            <tr>
+                <td>Element Selector</td>
+                <td>&lt;div&gt;</td>
+                <td>Targets HTML elements by their tag name.</td>
+            </tr>
+            <tr>
+                <td>Class Selector</td>
+                <td>.classname</td>
+                <td>Targets elements by their class attribute.</td>
+            </tr>
+            <tr>
+                <td>ID Selector</td>
+                <td>#idname</td>
+                <td>Targets elements by their ID attribute.</td>
+            </tr>
+            <!-- Add more rows for additional selectors as needed -->
+        </table>
+        
+        <h2>Specificity</h2>
+        <p>Specificity is a weight that is applied to a given CSS declaration, determined by the number of each selector type in the matching selector. When multiple declarations have equal specificity, the last declaration found in the CSS is applied to the element.</p>
+        <pre><code>/* Example of specificity */
+#header { background-color: blue; } /* ID selector, higher specificity */
+div { background-color: green; } /* Element selector, lower specificity */
+</code></pre>
+        
+        <p>In conclusion, understanding CSS selectors and specificity is crucial for effectively styling web pages. By mastering these concepts, developers can ensure that their styles are applied as intended.</p>
+    </main>
+</body>
+</html>
+    
+</body>
+</html>
+
